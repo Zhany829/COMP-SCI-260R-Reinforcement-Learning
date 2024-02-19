@@ -1,1 +1,1 @@
-Projects done while taking CS 260R(Reinforcement Learning)
+Projects realted to Reinforcement Learning algorithm
