@@ -1,1 +1,1 @@
-Projects realted to Reinforcement Learning algorithm
+Projects realted to Reinforcement Learning algorithm.
